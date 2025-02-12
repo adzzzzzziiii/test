@@ -1,0 +1,39 @@
+legend{
+    font-size: 21px;
+}
+body{
+    background-color: rgb(27, 26, 28);
+    color: rgb(255, 255, 255);
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    
+}
+form{
+    margin-left: 90px;
+}
+p{
+    font-size: 23px;
+    align-items: flex-end;
+}
+fieldset{
+    width: 490px;
+    margin-left: 270px;
+    background-color: rgb(51, 65, 174);
+}
+.jurusan{
+    margin-left: 115px;
+}
+.pernyataan{
+    margin-left: 115px;
+}
+.klik{
+    margin-left: 115px;
+}
+input{
+    border-radius: 9px;
+}
+details{
+    font-size: 21px;
+}
+:placeholder-shown{
+    font-size: 15px;
+}
